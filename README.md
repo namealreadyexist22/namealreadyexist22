@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @namealreadyexist22
-- 👀 I’m interested in improving my coding skills for web, programming or games.
+- 👀 I’m interested in improving my coding skills for web dev, programming or games.
 - 🌱 I’m currently learning web developing.
 - 📫 HMU
 
